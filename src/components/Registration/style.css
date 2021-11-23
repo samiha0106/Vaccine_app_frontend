@@ -1,0 +1,73 @@
+
+.social{
+   margin-left:500px;
+}
+.regform {
+   
+    margin-left: 430px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+  }
+  
+  
+  
+ 
+  
+  .regform > input,textarea{
+    padding: 20px;
+    border-radius: 3px;
+    width:300px;
+    margin-bottom:10px;
+    border: 1px solid lightgray;
+    background: #f1f1f1;
+    font-size: 10px;
+    color: rgb(0, 0, 32);
+    outline: none;
+  }
+  .regform > select {
+    padding: 20px;
+    border-radius: 3px;
+    width:340px;
+    margin-bottom:10px;
+    border: 1px solid lightgray;
+    background: #f1f1f1;
+    font-size: 10px;
+    color: rgb(0, 0, 32);
+    outline: none;
+  }
+
+  
+
+  
+  .regform > label {
+    color: rgb(0, 0, 32);
+    font-weight: bold;
+   
+  }
+  
+  
+  .Save {
+  margin-right:40px;
+    margin-top:10px;
+    margin-bottom: 50px;
+    background-color:green;
+    height: 40px;
+    width: 100px;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+  .Download{
+    background-color: red;
+    height: 40px;
+    width: 100px;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+  
+ 
+  

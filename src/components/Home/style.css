@@ -1,0 +1,52 @@
+.home__bg-img {
+  width: 100%;
+  background-image: url("banner.jpg");
+  background-size: cover;
+  height: 400px;
+  padding-top: 80px;
+}
+
+.home__bg-img__card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: beige;
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+.home__bg-img__card img {
+  width: 100px;
+  height: 100px;
+}
+.home__bg-img____desc {
+  color: grey;
+  font-size: 22px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.home__middle__column {
+  float: left;
+  width: 40%;
+  margin-bottom: 20px;
+  padding: 0 25px;
+}
+
+.home__middle__card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: beige;
+  max-width: 250px;
+  margin-left: 210px;
+  text-align: center;
+  font-family: arial;
+}
+
+.home__middle__card img {
+  width: 100%;
+  height: 200px;
+}
+.home__middle__container {
+  padding: 0 16px;
+}
